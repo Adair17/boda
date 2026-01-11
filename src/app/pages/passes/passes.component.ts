@@ -9,7 +9,6 @@ import { GlobalState } from '@core/global.state'
 			<p class="animate__animated animate__fadeInDown animate__delay-2s">
 			{{ 'PASSES.MESSAGE' | translate }}
 			</p>
-			<br />
 			<strong class="animate__animated animate__fadeInDown animate__delay-2s">
 			Papás
 			</strong>

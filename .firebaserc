@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "boda-407306"
-  }
+    "default": "boda-407306",
+    "bautizo": "boda-407306"
+  },
+  "targets": {},
+  "etags": {}
 }

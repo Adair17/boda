@@ -8,30 +8,6 @@ import { TranslateModule } from '@ngx-translate/core'
 @Component({
 	selector: 'countdown',
 	template: `
-		<br />
-		<br />
-		<br />
-		<br />
-		<br />
-		<br />
-		<br />
-		<br />
-		<br />
-		<br />
-		<br />
-		<br />
-		<br />
-		<br />
-		<br />
-		<br />
-		<br />
-		<br />
-		<br />
-		<br />
-		<br />
-		<br />
-		<br />
-		<br />
 		<strong>{{ 'COUNTDOWN.LABEL' | translate }}</strong>
 		<div class="container" *ngIf="countDown$ | async as countDown">
 			<div>

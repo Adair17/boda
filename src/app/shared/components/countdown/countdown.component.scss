@@ -1,11 +1,9 @@
 :host {
-	display: inline-flex;
+	display: flex;
 	align-items: center;
 	justify-content: center;
 	flex-direction: column;
 	gap: 0 0.25rem;
-	position: absolute;
-	top: 10rem;
 }
 
 strong {
