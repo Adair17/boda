@@ -1,15 +1,8 @@
 {
 	"MENU": {
 		"WELCOME": "Bienvenido",
-		"PASSES": "Pases",
-		"SCHEDULE": "Cronograma",
-		"LODGING": "Hospedaje",
-		"JJ": "Galería",
-		"OUR_DREAMS": "Nuestros sueños",
-		"GIFT_TABLE": "Mesa de regalos",
-		"DRESS_CODE": "Código de vestimenta",
-		"SOCIAL_MEDIA": "Redes sociales",
-		"BUTTON_LANG": "English"
+		"PASSES": "Presentación",
+		"SCHEDULE": "Cronograma"
 	},
 	"COUNTDOWN": {
 		"LABEL": "Cuenta regresiva",
@@ -22,18 +15,17 @@
 		"CLOSE": "Cerrar"
 	},
 	"WELCOME": {
-		"DATE": "03.Feb.24",
-		"OUR_WEDDING": "Nuestra Boda"
+		"DATE": "25 de Abril de 2026",
+		"OUR_WEDDING": "Mi Bautizo"
 	},
 	"PASSES": {
-		"WE_MARRIED": "¡Nos casamos!",
-		"NO_KIDS": "Por medidas de seguridad del lugar, te sugerimos no llevar niños, esperamos que esto no impida que contemos con tu presencia.",
+		"WE_MARRIED": "¡Celebra con nosotros!",
 		"MESSAGE": "Hay momentos en la vida que son especiales por sí solos. Compartirlos con las personas que apreciamos, los convierte en mágicos e inolvidables."
 	},
 	"SCHEDULE": {
 		"LABEL": "Cronograma",
-		"RELIGIOUS_CEREMONY": "Ceremonia Religiosa",
-		"RECEPTION": "Recepción",
+		"RELIGIOUS_CEREMONY": "Misa",
+		"RECEPTION": "Recepción y Banquete",
 		"BRIDE_AND_GROOM_ENTRANCE": "Entrada de los novios",
 		"FEAST": "Banquete",
 		"PARTY_STARTS": "¡Qué empiece la fiesta!",

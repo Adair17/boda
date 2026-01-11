@@ -21,7 +21,6 @@ export interface Schedule {
 		hasParkings: boolean
 		isChurch: boolean
 		buildingName: string
-		image: string
 	}
 }
 

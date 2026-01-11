@@ -62,7 +62,7 @@
     "Oscar": {
         "guestId": "Oscar",
         "title": "Oscar",
-        "passes": "Pase (2 personas)"
+        "passes": "Pase (1 personas)"
     },
     "Eduardo_Ceron": {
         "guestId": "Eduardo_Ceron",
@@ -342,7 +342,7 @@
     "Bertin_Monter": {
         "guestId": "Bertin_Monter",
         "title": "Bertin",
-        "passes": "Pase (2 personas)"
+        "passes": "Pase (5 personas)"
     },
     "Jorge_Gatica": {
         "guestId": "Jorge_Gatica",
@@ -668,5 +668,35 @@
         "guestId": "Daniel_Pajaro",
         "title": "Daniel",
         "passes": "Pase (2 personas)"
+    },
+    "Sabino_Sanchez": {
+        "guestId": "Sabino_Sanchez",
+        "title": "Sabino",
+        "passes": "Pase (2 personas)"
+    },
+    "Petra_Sanchez": {
+        "guestId": "Petra_Sanchez",
+        "title": "Petra",
+        "passes": "Pase (1 personas)"
+    },
+    "Aaron_Samperio": {
+        "guestId": "Aaron_Samperio",
+        "title": "Aarón",
+        "passes": "Pase (4 personas)"
+    },
+    "Roberto_Gonzalez": {
+        "guestId": "Roberto_Gonzalez",
+        "title": "Roberto",
+        "passes": "Pase (3 personas)"
+    },
+    "Ever_Percastegui": {
+        "guestId": "Ever_Percastegui",
+        "title": "Ever",
+        "passes": "Pase (2 personas)"
+    },
+    "Saul_Jimenez": {
+        "guestId": "Saul_Jimenez",
+        "title": "Saul",
+        "passes": "Pase (1 personas)"
     }
 }

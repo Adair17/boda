@@ -25,14 +25,6 @@ const routes: Routes = [
 				path: 'cronograma',
 				loadChildren: () => import('@pages/schedule').then((m) => m.SchedulePage),
 			},
-			{
-				path: 'hospedaje',
-				loadChildren: () => import('@pages/lodging').then((m) => m.LodgingPage),
-			},
-			{
-				path: 'codigo-de-vestimenta',
-				loadChildren: () => import('@pages/dress-code').then((m) => m.DressCodePage),
-			},
 		],
 	},
 	{

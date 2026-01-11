@@ -6,12 +6,13 @@
 	width: 100%;
 	height: calc(100vh - 4rem);
 	gap: 1.5rem 0;
-	background-image: url('/assets/images/fondoSecundario.jpeg');
+	background-image: url('/assets/images/fondoPrincipal.jpeg');
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
 	position: relative;
 	padding: 0 1rem;
+	color: #8B7B6A;
 }
 
 img {
@@ -44,4 +45,14 @@ small {
 	font-weight: bold;
 	font-size: 0.75rem;
 	text-align: center;
+}
+
+.circular-img {
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 3px solid #788375;
+    display: block;
+    margin: 0 auto 1rem auto;
 }

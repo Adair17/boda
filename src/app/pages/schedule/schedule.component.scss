@@ -4,12 +4,13 @@
 	overflow-y: auto;
 	display: block;
 	padding: 1rem;
-	background-image: url('/assets/images/fondoSecundario.jpeg');
+	background-image: url('/assets/images/fondoPrincipal.jpeg');
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
 	position: relative;
 	z-index: 0;
+	color: #8B7B6A;
 }
 
 ul {
@@ -42,7 +43,6 @@ li {
 	align-items: center;
 	justify-content: center;
 	flex-direction: column;
-	background: var(--white);
 	padding: 0.25rem 0;
 	position: relative;
 

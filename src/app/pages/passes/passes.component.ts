@@ -5,19 +5,18 @@ import { GlobalState } from '@core/global.state'
 @Component({
 	template: `
 		<ng-container *ngIf="guest$ | async as guest">
-			<h1 class="cursive animate__animated animate__fadeInDown">{{ guest.title }}</h1>
-			<strong class="animate__animated animate__fadeInUp animate__delay-1s">
-				{{ 'PASSES.WE_MARRIED' | translate }}
-			</strong>
+			<img src="/assets/images/Mikela.jpeg" alt="Mikela" class="circular-img animate__animated animate__fadeInDown animate__delay-2s" />
 			<p class="animate__animated animate__fadeInDown animate__delay-2s">
 			{{ 'PASSES.MESSAGE' | translate }}
 			</p>
-			<span class="animate__animated animate__fadeInUp animate__delay-3s">
-				{{ guest.passes }}
-			</span>
-			<small class="animate__animated animate__fadeInDown animate__delay-4s">
-				{{ 'PASSES.NO_KIDS' | translate }}
-			</small>
+			<br />
+			<strong class="animate__animated animate__fadeInDown animate__delay-2s">
+			Papás
+			</strong>
+			<p class="animate__animated animate__fadeInDown animate__delay-2s">
+			José Antonio Ventura <br />
+			Katherine Gutiérrez
+			</p>
 		</ng-container>
 	`,
 	styleUrls: ['./passes.component.scss'],
