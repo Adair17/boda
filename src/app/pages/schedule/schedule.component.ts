@@ -32,7 +32,7 @@ export class ScheduleComponent {
 				hasParkings: true,
 				isChurch: false,
 				buildingName:
-					'Salón de eventos, San Juan Solis, Hidalgo',
+					'Salón Hacienda Real de San Juan, San Juan Solis, Hidalgo',
 			},
 		},
 	]

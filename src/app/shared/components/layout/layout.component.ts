@@ -50,7 +50,7 @@ export class LayoutComponent implements OnInit {
 			} else {
 				localStorage.clear()
 				this.globalState.guest.next(null)
-				this.router.navigate(['/sin-invitacion'])
+				this.router.navigate(['/mi_bautizo'])
 			}
 		})
 	}
